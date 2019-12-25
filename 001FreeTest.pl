@@ -1,5 +1,5 @@
 #! d:/Strawberry/perl/bin/perl
 
-$var = 'miaomiao';
+$var = 'wangwang';
 
-print("what does cat say:\n$var!\n");
+print("what does dog say:\n$var!\n");
